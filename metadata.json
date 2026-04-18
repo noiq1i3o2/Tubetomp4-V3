@@ -1,0 +1,6 @@
+{
+  "name": "TubeToMP4",
+  "description": "A simple, working YouTube to MP4 downloader.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
